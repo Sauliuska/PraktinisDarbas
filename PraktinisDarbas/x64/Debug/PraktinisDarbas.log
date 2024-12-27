@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\sauli\OneDrive\Desktop\VIKO programav. projektai\PraktinisDarbas\MyForm.cpp(8,2): error C2653: 'ProjectName': is not a class or namespace name
+C:\Users\sauli\OneDrive\Desktop\VIKO programav. projektai\PraktinisDarbas\MyForm.cpp(8,15): error C2065: 'MyForm': undeclared identifier
+C:\Users\sauli\OneDrive\Desktop\VIKO programav. projektai\PraktinisDarbas\MyForm.cpp(8,22): error C2146: syntax error: missing ';' before identifier 'form'
+C:\Users\sauli\OneDrive\Desktop\VIKO programav. projektai\PraktinisDarbas\MyForm.cpp(8,22): error C2065: 'form': undeclared identifier
+C:\Users\sauli\OneDrive\Desktop\VIKO programav. projektai\PraktinisDarbas\MyForm.cpp(9,21): error C2065: 'form': undeclared identifier
+  Generating Code...
